@@ -19,11 +19,13 @@ line-height:2.5em;}
 
 nav a {color:white;
 	text-decoration:none;}
-h1 {color:blue; text-align:center; font-weight:normal; text-shadow:2px 2px 1px #0a294b;}
+h1 {color:green; text-align:center; font-weight:normal; text-shadow:2px 2px 1px #0a294b;}
 h2 {color:blue; text-align:left;}
 p {color:red; font-style:italic;}
 article {float:left;}
 section {float:left;}
+
+
 article header 
 {width:150px;
 float:left;}
