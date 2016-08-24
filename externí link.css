@@ -7,7 +7,7 @@ header
 {height:73px;}	
 nav ul 
 {list-style-type:none;
-margin:0px;}
+margin:0px; margin-left:200px;}
 nav ul li:hover, .aktivní {background:#9999ff;}
 nav ul li
 {float:left;
@@ -20,17 +20,17 @@ line-height:2.5em;}
 nav a {color:white;
 	text-decoration:none;}
 h1 {color:green; text-align:center; font-weight:normal; text-shadow:2px 2px 1px #0a294b;}
-h2 {color:blue; text-align:left;}
+h2 {color:blue; text-align:center;}
 p {color:red; font-style:italic;}
 article {float:left;}
 section {float:left;}
 
 
 article header 
-{width:150px;
+{width:270px;
 float:left;}
 article section
-{width:760px;
+{width:690px;
 float:left;
 background-color:white;
 border:4px solid #FF0000;
@@ -42,4 +42,7 @@ aside ol
 margin:0px; }
 aside ol li{height:70px;}
 aside a {color:white;text-decoration:none;}
-footer {clear:both; height:40px; color:white;}
+aside a:link    {color: #0a294b}
+aside a:visited {color: blue}
+aside a:active  {color: #ff0000}
+footer {clear:both; text-align:left; height:60px; color:white; border:2px; margin:0px; margin-left:270px; padding:10px;}
