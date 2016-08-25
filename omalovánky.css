@@ -1,0 +1,80 @@
+body
+{
+	background-color:#ffff99;
+}	
+/*--------------------------
+    Header section
+---------------------------*/  
+header
+{
+	background-color:#ffb266;
+	height:120px;
+}
+#logo
+{
+	background-color:#ff8000;
+	height:1000px;
+	width:250px;
+	float:left;
+}
+h6
+{
+	text-align:left;
+	color:#000000;
+}
+
+nav ul li
+{
+	padding:20px 15px;
+
+}
+nav a 
+{
+	text-decoration:none;
+}
+h1
+{
+	text-align:center;
+
+	color:#606060;
+	font-weight:0.5;
+	text-shadow:2px 2px 5px #404040;
+}
+section ul
+{
+	list-style-type:none;
+} 
+section ul li
+{
+	float:left;
+	margin-top:100px;
+	margin-left:100px;
+	padding:20px 20px;
+	text-align:center;
+}
+section a
+{
+	text-decoration:none;
+
+}
+img 
+{
+	;
+
+}
+section a:link    {color: #ff8000}
+section a:visited {color: #0000cc}
+section a:active  {color: #ffff00}
+
+/*--------------------------
+    section section
+---------------------------*/    
+/*--------------------------
+    article section
+---------------------------*/    
+/*--------------------------
+    aside section
+---------------------------*/    
+/*--------------------------
+    Footer section
+---------------------------*/    
